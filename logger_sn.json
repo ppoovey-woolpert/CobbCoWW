@@ -1,0 +1,45 @@
+{
+    "data": [
+
+        {
+            "name": "CHATDROP",
+            "logger_sn": "22546624"
+        },
+        {
+            "name": "BRUSHYMTN",
+            "logger_sn": "22546626"
+        },
+        {
+            "name": "NOSES1",
+            "logger_sn": "22546628"
+        },
+        {
+            "name": "LTNOON",
+            "logger_sn": "22546627"
+        },
+        {
+            "name": "STATION7",
+            "logger_sn": "22546629"
+        },
+        {
+            "name": "SOUTHPLANT",
+            "logger_sn": "22546632"
+        },
+        {
+            "name": "WESTHAMP",
+            "logger_sn": "22546625"
+        },
+        {
+            "name": "STRATTONLIB",
+            "logger_sn": "22546630"
+        },
+        {
+            "name": "SEWLDROP",
+            "logger_sn": "22546631"
+        },
+        {
+            "name": "BUTL1",
+            "logger_sn": "22546633"
+        }
+    ]
+}

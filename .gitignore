@@ -1,0 +1,12 @@
+/.vscode
+API/prism_payload/
+API/split_by_logger/
+prism_payload/
+split_by_logger/
+"data transfer/"
+"data transfer"/
+get-data-raw-hobo.json
+logfile*.txt
+get-data-hobo.bat
+/prism_output
+secrets.json

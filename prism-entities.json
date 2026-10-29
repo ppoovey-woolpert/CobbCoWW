@@ -1,0 +1,874 @@
+[
+  {
+    "name": "HC",
+    "id": 1701
+  },
+  {
+    "name": "ROUGHNESS",
+    "id": 1702
+  },
+  {
+    "name": "SLOPE",
+    "id": 1703
+  },
+  {
+    "name": "VGAIN",
+    "id": 1704
+  },
+  {
+    "name": "DIAMETER",
+    "id": 1705
+  },
+  {
+    "name": "PRESSK",
+    "id": 1706
+  },
+  {
+    "name": "SILT",
+    "id": 1707
+  },
+  {
+    "name": "SATRAIN",
+    "id": 2000
+  },
+  {
+    "name": "INVRAIN",
+    "id": 2010
+  },
+  {
+    "name": "BPRAIN",
+    "id": 2020
+  },
+  {
+    "name": "DFINAL",
+    "id": 2102
+  },
+  {
+    "name": "RAIN",
+    "id": 2123
+  },
+  {
+    "name": "ANGLE",
+    "id": 2133
+  },
+  {
+    "name": "LEVEL",
+    "id": 2143
+  },
+  {
+    "name": "AQUIFER_LEVEL",
+    "id": 2144
+  },
+  {
+    "name": "ELEVATION",
+    "id": 2145
+  },
+  {
+    "name": "VFINAL",
+    "id": 2203
+  },
+  {
+    "name": "QFINAL",
+    "id": 2303
+  },
+  {
+    "name": "RAINFINAL",
+    "id": 3123
+  },
+  {
+    "name": "QCOLEBROOK",
+    "id": 3301
+  },
+  {
+    "name": "QCONTINUITY",
+    "id": 3302
+  },
+  {
+    "name": "QUANTITY",
+    "id": 3303
+  },
+  {
+    "name": "QFLUME",
+    "id": 3304
+  },
+  {
+    "name": "QGROSS",
+    "id": 3305
+  },
+  {
+    "name": "QLOOKUP",
+    "id": 3306
+  },
+  {
+    "name": "QMANNING",
+    "id": 3307
+  },
+  {
+    "name": "QPCONTINUITY",
+    "id": 3311
+  },
+  {
+    "name": "QPFLUME",
+    "id": 3312
+  },
+  {
+    "name": "QPLOOKUP",
+    "id": 3313
+  },
+  {
+    "name": "QPMANNING",
+    "id": 3314
+  },
+  {
+    "name": "QPSEUDO",
+    "id": 3315
+  },
+  {
+    "name": "QPSFILL",
+    "id": 3316
+  },
+  {
+    "name": "QPSRUN",
+    "id": 3317
+  },
+  {
+    "name": "QPWEIR",
+    "id": 3318
+  },
+  {
+    "name": "QWEIR",
+    "id": 3320
+  },
+  {
+    "name": "FLOW1",
+    "id": 3321
+  },
+  {
+    "name": "FLOW2",
+    "id": 3322
+  },
+  {
+    "name": "FLOW3",
+    "id": 3323
+  },
+  {
+    "name": "FLOW4",
+    "id": 3324
+  },
+  {
+    "name": "FLOW5",
+    "id": 3325
+  },
+  {
+    "name": "FLOW6",
+    "id": 3326
+  },
+  {
+    "name": "AccuFlow1",
+    "id": 3327
+  },
+  {
+    "name": "AccuFlow2",
+    "id": 3328
+  },
+  {
+    "name": "AccuFlow3",
+    "id": 3329
+  },
+  {
+    "name": "AccuFlow4",
+    "id": 3330
+  },
+  {
+    "name": "AccuFlowSum",
+    "id": 3331
+  },
+  {
+    "name": "AccuVolume1",
+    "id": 3332
+  },
+  {
+    "name": "AccuVolume2",
+    "id": 3333
+  },
+  {
+    "name": "AccuVolume3",
+    "id": 3334
+  },
+  {
+    "name": "AccuVolume4",
+    "id": 3335
+  },
+  {
+    "name": "AccuVolumeSum",
+    "id": 3336
+  },
+  {
+    "name": "FLOW",
+    "id": 3337
+  },
+  {
+    "name": "TotFlow1",
+    "id": 3338
+  },
+  {
+    "name": "TotFlow2",
+    "id": 3339
+  },
+  {
+    "name": "Avg_A1",
+    "id": 3500
+  },
+  {
+    "name": "Avg_A2",
+    "id": 3501
+  },
+  {
+    "name": "Min_A1",
+    "id": 3502
+  },
+  {
+    "name": "Min_A2",
+    "id": 3503
+  },
+  {
+    "name": "Max_A1",
+    "id": 3504
+  },
+  {
+    "name": "Max_A2",
+    "id": 3505
+  },
+  {
+    "name": "RAINI",
+    "id": 3901
+  },
+  {
+    "name": "RAINI_UK",
+    "id": 3902
+  },
+  {
+    "name": "SDEPTH",
+    "id": 4105
+  },
+  {
+    "name": "SDEPTH_3",
+    "id": 4106
+  },
+  {
+    "name": "DEPTH",
+    "id": 4122
+  },
+  {
+    "name": "UNIDPTH2",
+    "id": 4123
+  },
+  {
+    "name": "AccuDepth1",
+    "id": 4124
+  },
+  {
+    "name": "AccuDepth2",
+    "id": 4125
+  },
+  {
+    "name": "AccuDepth3",
+    "id": 4126
+  },
+  {
+    "name": "AccuDepth4",
+    "id": 4127
+  },
+  {
+    "name": "DThreshold",
+    "id": 4128
+  },
+  {
+    "name": "VELOCITY",
+    "id": 4202
+  },
+  {
+    "name": "PEAKVEL_1",
+    "id": 4203
+  },
+  {
+    "name": "PEAKVEL_3",
+    "id": 4204
+  },
+  {
+    "name": "GATEDVEL_2",
+    "id": 4205
+  },
+  {
+    "name": "SURFACEVEL_3",
+    "id": 4206
+  },
+  {
+    "name": "QOVERFLOW",
+    "id": 4310
+  },
+  {
+    "name": "QTHRESHOLD",
+    "id": 4319
+  },
+  {
+    "name": "EXTTEMP",
+    "id": 4401
+  },
+  {
+    "name": "INTTEMP",
+    "id": 4402
+  },
+  {
+    "name": "PTEMP",
+    "id": 4403
+  },
+  {
+    "name": "TEMP",
+    "id": 4404
+  },
+  {
+    "name": "WATERTEMP_1",
+    "id": 4405
+  },
+  {
+    "name": "WATERTEMP_2",
+    "id": 4406
+  },
+  {
+    "name": "AIRTEMP_3",
+    "id": 4407
+  },
+  {
+    "name": "TEMP2",
+    "id": 4408
+  },
+  {
+    "name": "UTemp",
+    "id": 4409
+  },
+  {
+    "name": "BTYVOLT",
+    "id": 4801
+  },
+  {
+    "name": "BTY_Radio",
+    "id": 4802
+  },
+  {
+    "name": "GPRS_RSSI",
+    "id": 4803
+  },
+  {
+    "name": "SAMPLES",
+    "id": 4902
+  },
+  {
+    "name": "CALLOUTS",
+    "id": 4903
+  },
+  {
+    "name": "PDEPTH",
+    "id": 5104
+  },
+  {
+    "name": "U1",
+    "id": 5106
+  },
+  {
+    "name": "U10",
+    "id": 5107
+  },
+  {
+    "name": "U11",
+    "id": 5108
+  },
+  {
+    "name": "U12",
+    "id": 5109
+  },
+  {
+    "name": "U13",
+    "id": 5110
+  },
+  {
+    "name": "U14",
+    "id": 5111
+  },
+  {
+    "name": "U15",
+    "id": 5112
+  },
+  {
+    "name": "U16",
+    "id": 5113
+  },
+  {
+    "name": "U2",
+    "id": 5114
+  },
+  {
+    "name": "U3",
+    "id": 5115
+  },
+  {
+    "name": "U4",
+    "id": 5116
+  },
+  {
+    "name": "U5",
+    "id": 5117
+  },
+  {
+    "name": "U6",
+    "id": 5118
+  },
+  {
+    "name": "U7",
+    "id": 5119
+  },
+  {
+    "name": "U8",
+    "id": 5120
+  },
+  {
+    "name": "U9",
+    "id": 5121
+  },
+  {
+    "name": "PDEPTH_1",
+    "id": 5122
+  },
+  {
+    "name": "PDEPTH_2",
+    "id": 5123
+  },
+  {
+    "name": "PDEPTH_3",
+    "id": 5124
+  },
+  {
+    "name": "UpDEPTH_1",
+    "id": 5125
+  },
+  {
+    "name": "UpDEPTH_2",
+    "id": 5126
+  },
+  {
+    "name": "UDEPTH",
+    "id": 5127
+  },
+  {
+    "name": "DEPTH_A1",
+    "id": 5128
+  },
+  {
+    "name": "DEPTH_A2",
+    "id": 5129
+  },
+  {
+    "name": "DEPTH_A3",
+    "id": 5130
+  },
+  {
+    "name": "DEPTH_A4",
+    "id": 5131
+  },
+  {
+    "name": "DEPTH_A5",
+    "id": 5132
+  },
+  {
+    "name": "DEPTH_A6",
+    "id": 5133
+  },
+  {
+    "name": "DEPTH_A7",
+    "id": 5134
+  },
+  {
+    "name": "DEPTH_A8",
+    "id": 5135
+  },
+  {
+    "name": "DEPTH_A9",
+    "id": 5136
+  },
+  {
+    "name": "AccuRawLevel1",
+    "id": 5137
+  },
+  {
+    "name": "AccuRawLevel2",
+    "id": 5138
+  },
+  {
+    "name": "AccuRawLevel3",
+    "id": 5139
+  },
+  {
+    "name": "AccuRawLevel4",
+    "id": 5140
+  },
+  {
+    "name": "LRDEPTH",
+    "id": 5141
+  },
+  {
+    "name": "RAWVEL",
+    "id": 5201
+  },
+  {
+    "name": "VEL_A1",
+    "id": 5202
+  },
+  {
+    "name": "VEL_A2",
+    "id": 5203
+  },
+  {
+    "name": "VEL_A3",
+    "id": 5204
+  },
+  {
+    "name": "VEL_A4",
+    "id": 5205
+  },
+  {
+    "name": "VEL_A5",
+    "id": 5206
+  },
+  {
+    "name": "VEL_A6",
+    "id": 5207
+  },
+  {
+    "name": "VEL_A7",
+    "id": 5208
+  },
+  {
+    "name": "VEL_A8",
+    "id": 5209
+  },
+  {
+    "name": "VEL_A9",
+    "id": 5210
+  },
+  {
+    "name": "VEL_A10",
+    "id": 5211
+  },
+  {
+    "name": "VEL_A11",
+    "id": 5212
+  },
+  {
+    "name": "VEL_A12",
+    "id": 5213
+  },
+  {
+    "name": "AccuVelocity1",
+    "id": 5214
+  },
+  {
+    "name": "AccuVelocity2",
+    "id": 5215
+  },
+  {
+    "name": "AccuVelocity3",
+    "id": 5216
+  },
+  {
+    "name": "AccuVelocity4",
+    "id": 5217
+  },
+  {
+    "name": "AccuVelocity5",
+    "id": 5218
+  },
+  {
+    "name": "AccuVelocity6",
+    "id": 5219
+  },
+  {
+    "name": "AccuVelocity7",
+    "id": 5220
+  },
+  {
+    "name": "AccuVelocity8",
+    "id": 5221
+  },
+  {
+    "name": "AccuVelocity9",
+    "id": 5222
+  },
+  {
+    "name": "AccuVelocity10",
+    "id": 5223
+  },
+  {
+    "name": "Q_A1",
+    "id": 5301
+  },
+  {
+    "name": "Q_A2",
+    "id": 5302
+  },
+  {
+    "name": "Q_A3",
+    "id": 5303
+  },
+  {
+    "name": "Q_A4",
+    "id": 5304
+  },
+  {
+    "name": "Q_A5",
+    "id": 5305
+  },
+  {
+    "name": "Q_A6",
+    "id": 5306
+  },
+  {
+    "name": "Q_A7",
+    "id": 5307
+  },
+  {
+    "name": "Q_A8",
+    "id": 5308
+  },
+  {
+    "name": "Q_A9",
+    "id": 5309
+  },
+  {
+    "name": "Q_A10",
+    "id": 5310
+  },
+  {
+    "name": "Q_A11",
+    "id": 5311
+  },
+  {
+    "name": "Q_A12",
+    "id": 5312
+  },
+  {
+    "name": "TMP_A1",
+    "id": 5401
+  },
+  {
+    "name": "TMP_A2",
+    "id": 5402
+  },
+  {
+    "name": "TMP_A3",
+    "id": 5403
+  },
+  {
+    "name": "TMP_A4",
+    "id": 5404
+  },
+  {
+    "name": "TMP_A5",
+    "id": 5405
+  },
+  {
+    "name": "TMP_A6",
+    "id": 5406
+  },
+  {
+    "name": "TMP_A7",
+    "id": 5407
+  },
+  {
+    "name": "TMP_A8",
+    "id": 5408
+  },
+  {
+    "name": "TMP_A9",
+    "id": 5409
+  },
+  {
+    "name": "TMP_A10",
+    "id": 5410
+  },
+  {
+    "name": "TMP_A11",
+    "id": 5411
+  },
+  {
+    "name": "TMP_A12",
+    "id": 5412
+  },
+  {
+    "name": "PH_A1",
+    "id": 5500
+  },
+  {
+    "name": "PH_A2",
+    "id": 5501
+  },
+  {
+    "name": "DI1",
+    "id": 5700
+  },
+  {
+    "name": "DI2",
+    "id": 5701
+  },
+  {
+    "name": "Analog1",
+    "id": 5750
+  },
+  {
+    "name": "Analog2",
+    "id": 5751
+  },
+  {
+    "name": "AVGUDEPTH",
+    "id": 6101
+  },
+  {
+    "name": "DMLI_AVG",
+    "id": 6102
+  },
+  {
+    "name": "DPROCESSED",
+    "id": 6103
+  },
+  {
+    "name": "VPROCESSED",
+    "id": 6204
+  },
+  {
+    "name": "QMLI_AVG",
+    "id": 6308
+  },
+  {
+    "name": "QNET",
+    "id": 6309
+  },
+  {
+    "name": "POFF1",
+    "id": 6501
+  },
+  {
+    "name": "POFF2",
+    "id": 6502
+  },
+  {
+    "name": "POFF3",
+    "id": 6503
+  },
+  {
+    "name": "POFF4",
+    "id": 6504
+  },
+  {
+    "name": "PON1",
+    "id": 6505
+  },
+  {
+    "name": "PON2",
+    "id": 6506
+  },
+  {
+    "name": "PON3",
+    "id": 6507
+  },
+  {
+    "name": "PON4",
+    "id": 6508
+  },
+  {
+    "name": "BTYCRIT",
+    "id": 6601
+  },
+  {
+    "name": "BTYLOW",
+    "id": 6602
+  },
+  {
+    "name": "HIGH_HIGH",
+    "id": 6609
+  },
+  {
+    "name": "HIGH_LEVEL",
+    "id": 6610
+  },
+  {
+    "name": "LOW_LEVEL",
+    "id": 6611
+  },
+  {
+    "name": "RAIN_ALERT",
+    "id": 6613
+  },
+  {
+    "name": "Cryout",
+    "id": 6614
+  },
+  {
+    "name": "CROSS_DEPTH",
+    "id": 6615
+  },
+  {
+    "name": "CROSS_VELOCITY",
+    "id": 6616
+  },
+  {
+    "name": "LOW_BTY_MODEM",
+    "id": 6617
+  },
+  {
+    "name": "FLOAT_SWITCH1",
+    "id": 6618
+  },
+  {
+    "name": "FLOAT_SWITCH2",
+    "id": 6619
+  },
+  {
+    "name": "Low_Flow",
+    "id": 6620
+  },
+  {
+    "name": "SUBMERGED",
+    "id": 6621
+  },
+  {
+    "name": "RAINTIPS",
+    "id": 6622
+  },
+  {
+    "name": "TILT",
+    "id": 6623
+  },
+  {
+    "name": "FULL_PIPE",
+    "id": 6630
+  },
+  {
+    "name": "OVERFLOW",
+    "id": 6631
+  },
+  {
+    "name": "HIGH_FLOW",
+    "id": 6632
+  },
+  {
+    "name": "PRESSVOLT",
+    "id": 6640
+  },
+  {
+    "name": "QBilled",
+    "id": 6707
+  },
+  {
+    "name": "QWRC",
+    "id": 6708
+  }
+]

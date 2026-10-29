@@ -1,0 +1,174 @@
+{
+  "devices": [
+    {
+      "deviceName": "CHATDROP",
+      "deviceSerialNumber": "22546624",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T14:07:10.197Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22522143-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    },
+    {
+      "deviceName": "BRUSHYMTN",
+      "deviceSerialNumber": "22546626",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T15:03:33.353Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22546051-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    },
+    {
+      "deviceName": "NOSES1",
+      "deviceSerialNumber": "22546628",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T14:56:42.586Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22522140-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    },
+    {
+      "deviceName": "LTNOON",
+      "deviceSerialNumber": "22546627",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T14:32:42.004Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22522142-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    },
+    {
+      "deviceName": "STATION7",
+      "deviceSerialNumber": "22546629",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T14:21:02.689Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22494635-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    },
+    {
+      "deviceName": "SOUTHPLANT",
+      "deviceSerialNumber": "22546632",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T14:35:45.390Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22546052-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    },
+    {
+      "deviceName": "WESTHAMP",
+      "deviceSerialNumber": "22546625",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T15:00:29.120Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22522141-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    },
+    {
+      "deviceName": "STRATTONLIB",
+      "deviceSerialNumber": "22546630",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T15:00:30.878Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22546050-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    },
+    {
+      "deviceName": "SEWLDROP",
+      "deviceSerialNumber": "22546631",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T15:51:34.208Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22522144-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    },
+    {
+      "deviceName": "BUTL1",
+      "deviceSerialNumber": "22546633",
+      "productCode": "RX2100",
+      "lastConnectionTime": "2026-10-28T15:16:23.131Z",
+      "loggingState": "LOGGING",
+      "alarmed": false,
+      "unitSystem": "US",
+      "sensors": [
+        {
+          "sensorSerialNumber": "22522145-1",
+          "measurementType": "Rain",
+          "units": "in",
+          "latest": null
+        }
+      ]
+    }
+  ]
+}
